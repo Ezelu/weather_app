@@ -1,0 +1,28 @@
+.box {
+  border-radius: 10px;
+  color: black;
+  background: white;
+  transition: transform 0.4s ease;
+  cursor: pointer;
+}
+
+.box:hover {
+  transform: scale(0.9);
+}
+
+.box p {
+  text-transform: capitalize;
+}
+
+
+
+
+
+
+
+
+@media (max-width: 820px) {
+  .box:hover {
+    transform: scale(1);
+  }
+}
