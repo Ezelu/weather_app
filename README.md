@@ -26,6 +26,7 @@ This is a simple weather app that displays the current weather of the city and t
 
 > Open up http://localhost:3000 on your favorite browser to view the web app :)
 
+Live Site: https://weda-app.netlify.app/
 
 ![localhost_3000_](https://user-images.githubusercontent.com/104224223/182846368-497474be-d72a-484b-a354-846730466e38.png)
 ![localhost_3000_ (1)](https://user-images.githubusercontent.com/104224223/182846354-61072afe-a427-4247-898c-1a9ebd274f70.png)
